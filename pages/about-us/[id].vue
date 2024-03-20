@@ -41,8 +41,8 @@
                 >
                   <h2>{{ item.title }}</h2>
                   <h2 style="color: rgb(255, 203, 5)">
-                    {{ $t("Scientific Instrument") }} <br />
-                    {{ $t("and High Performance Computing Center") }} 
+                    {{ $t("Service") }} <br />
+                    {{ $t("KMUTNB") }}
                   </h2>
                 </div>
               </div>

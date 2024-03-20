@@ -29,9 +29,9 @@
                     </p>
 
                     <p style="font-size: 1em">
-                      <span> โทรศัพท์ 02-555-2000 ต่อ </span>
+                      <span> โทรศัพท์ 02-555-2000 ต่อ 1755</span>
                       <br />
-                      <span>แฟกซ์ 02</span>
+                      <span>อีเมล service@technopark.kmutnb.ac.th</span>
                     </p>
 
                     <a href="#" target="_blank">

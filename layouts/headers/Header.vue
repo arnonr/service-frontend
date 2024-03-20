@@ -47,7 +47,7 @@
                   <div>
                     <span class="fw-bold">โทรศัพท์</span>
                     <br />
-                    02-555-2000
+                    02-555-2000 ต่อ 1755
                   </div>
 
                   <div class="header__info-icon ms-3">
@@ -55,7 +55,7 @@
                   </div>
                   <div>
                     <span class="fw-bold">อีเมล</span
-                    ><br />contact@service.kmutnb.ac.th
+                    ><br />service@technopark.kmutnb.ac.th
                   </div>
 
                   <!-- <span class="mr-0-5 item-link" @click="changeSkin()">
