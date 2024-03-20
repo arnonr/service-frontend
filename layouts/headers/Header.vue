@@ -31,7 +31,7 @@
               </div>
             </div>
 
-            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-7 col-7">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-7 col-7 d-none d-xl-block">
               <!-- DARK MODE LOGIN LANGUAGE -->
 
               <div
@@ -252,7 +252,7 @@
         </div>
       </div>
       <div
-        :class="`header__style-4 header__sticky ${
+        :class="`header__style-4 header__sticky  ${
           isSticky ? 'header-sticky' : ''
         }`"
         id="header-sticky"
