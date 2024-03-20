@@ -75,7 +75,9 @@
                           <h3>{{ si.title }}</h3>
                         </div>
                         <div class="col-md-12">
-                          {{ si.detail }}
+                          <div
+                            v-html="si.detail == null ? '' : si.detail"
+                          ></div>
                         </div>
                         <div><hr class="hr-dotted" /></div>
                       </div>
@@ -97,8 +99,9 @@
                   <section class="portfolio__area pt-40 pb-40">
                     <div class="container">
                       <div class="row">
-                        <!--  -->
-                        {{ item.contact }}
+                        <div
+                          v-html="item.contact == null ? '' : item.contact"
+                        ></div>
                       </div>
                     </div>
                   </section>
