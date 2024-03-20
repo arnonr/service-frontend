@@ -53,7 +53,7 @@
                               link: '/department/',
                               id: it.id,
                               title: it.name,
-                              file: 'asdasdasd',
+                              file: it.department_file,
                               type_name: 'ประเภท',
                             }"
                           />
